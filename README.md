@@ -1,4 +1,7 @@
 # openi_auto_token
+
+参考文档：https://openi.pcl.ac.cn/docs/index.html#/api/intro
+
 不需要盲输，自动输入您的token
 
 ————————————————————————————————
